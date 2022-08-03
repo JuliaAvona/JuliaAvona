@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @JuliaAvona  
+👋 Hi there, I’m @JuliaAvona  
   
 🟠 Aim Game: https://juliaavona.github.io/aim_game/  
 🎛️ Virtual Keyboard: https://juliaavona.github.io/Piano_on_keyboard/  
