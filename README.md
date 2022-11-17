@@ -1,6 +1,6 @@
 👋 Hi there, I’m @JuliaAvona 
 
-🥑 Restorant website: https://juliaavona.github.io/avo-restorant/
+🥑 Restorant website: https://juliaavona.github.io/avo-restorant/  
 🚘 Car rental website: https://juliaavona.github.io/car_app/  
 🟠 Aim Game: https://juliaavona.github.io/aim_game/  
 🎛️ Virtual Keyboard: https://juliaavona.github.io/Piano_on_keyboard/  
