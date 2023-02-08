@@ -1,6 +1,7 @@
 👋 Hi there, I’m @JuliaAvona 
 
-🥑 Restorant website: https://juliaavona.github.io/avo-restorant/  
+🪴 Plants - Responsive website: https://juliaavona.github.io/plants  
+🥑 AVO Restorant - Responsive website: https://juliaavona.github.io/avo-restorant/  
 🟪 Filters_App: https://juliaavona.github.io/CSS_Filters_App/  
 🚘 Car rental website: https://juliaavona.github.io/car_app/  
 🟠 Aim Game: https://juliaavona.github.io/aim_game/  
