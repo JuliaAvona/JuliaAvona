@@ -1,5 +1,6 @@
 👋 Hi there, I’m @JuliaAvona | Frontend Developer 
-# 💫 My works:
+
+# My personal projects:
 
 🗿 Momentum: https://juliaavona-momentum.netlify.app/  
 🪴 Plants - Responsive website: https://juliaavona.github.io/plants  
