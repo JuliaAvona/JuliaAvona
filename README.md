@@ -1,4 +1,4 @@
-👋 Hi there, I’m @JuliaAvona 
+👋 Hi there, I’m @JuliaAvona | Frontend Developer 
 # 💫 My works:
 
 🗿 Momentum: https://juliaavona-momentum.netlify.app/  
