@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-izbrodina) 
 
 ## 🎱 Algorithm tasks (Codewars):
-https://www.codewars.com/users/rsschool_dd21885880fcd208/badges/large
+[![codewars](https://www.codewars.com/users/rsschool_dd21885880fcd208/badges/large)
 
 
 ## 💻 Tech Stack:
