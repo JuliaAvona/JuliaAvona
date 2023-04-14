@@ -3,6 +3,7 @@
 ### My personal projects:
 
 🗿 Momentum: https://juliaavona-momentum.netlify.app/  
+🐶 Shelter - Responsive website: https://juliaavona.github.io/shelter/pages/main/index.html  
 🪴 Plants - Responsive website: https://juliaavona.github.io/plants  
 🥑 AVO Restorant - Responsive website: https://juliaavona.github.io/avo-restorant/  
 🟪 Filters_App: https://juliaavona.github.io/CSS_Filters_App/  
