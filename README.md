@@ -6,6 +6,7 @@
 🐶 Shelter - Responsive website: https://juliaavona.github.io/shelter/pages/main/index.html  
 🪴 Plants - Responsive website: https://juliaavona.github.io/plants  
 🥑 AVO Restorant - Responsive website: https://juliaavona.github.io/avo-restorant/  
+🪗 CSS - accordeon: https://juliaavona.github.io/cssBayan/cssBayan/index.html    
 🟪 Filters_App: https://juliaavona.github.io/CSS_Filters_App/  
 🚘 Car rental website: https://juliaavona.github.io/car_app/  
 🟠 Aim Game: https://juliaavona.github.io/aim_game/  
