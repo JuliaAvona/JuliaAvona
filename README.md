@@ -16,7 +16,7 @@
 🔮 Horizontal Slider: https://juliaavona.github.io/gallery/  
 🍭 Vertical Slider: https://juliaavona.github.io/slider/  
 📤 Drag'n'Drop: https://juliaavona.github.io/drag-and-drop/  
-🧩 HTML-builder - 6 steps Node.js: https://lnkd.in/gc4CCkKi #project #internship #github #nodejs
+🧩 HTML-builder - 6 steps Node.js: https://github.com/JuliaAvona/HTML-builder-en/tree/main
 
 
 ### 🌐 Socials:
