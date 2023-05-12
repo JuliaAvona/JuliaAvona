@@ -15,7 +15,8 @@
 🟩 Squares Game: https://juliaavona.github.io/squares/  
 🔮 Horizontal Slider: https://juliaavona.github.io/gallery/  
 🍭 Vertical Slider: https://juliaavona.github.io/slider/  
-📤 Drag'n'Drop: https://juliaavona.github.io/drag-and-drop/
+📤 Drag'n'Drop: https://juliaavona.github.io/drag-and-drop/  
+🧩 HTML-builder - 6 steps Node.js: https://lnkd.in/gc4CCkKi #project #internship #github #nodejs
 
 
 ### 🌐 Socials:
