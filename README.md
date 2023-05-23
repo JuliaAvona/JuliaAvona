@@ -2,7 +2,8 @@
 
 ### My personal projects:
 
-🗿 Momentum: https://juliaavona-momentum.netlify.app/  
+🗿 Momentum: https://juliaavona-momentum.netlify.app/ 
+💣 Minesweeper Game: https://juliaavona.github.io/minesweeper/minesweeper/  
 🐶 Shelter - Responsive website: https://juliaavona.github.io/shelter/pages/main/index.html  
 🪴 Plants - Responsive website: https://juliaavona.github.io/plants  
 🥑 AVO Restorant - Responsive website: https://juliaavona.github.io/avo-restorant/  
