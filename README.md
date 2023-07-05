@@ -3,7 +3,7 @@
 ### My personal projects:
 
 🗿 Momentum: https://juliaavona-momentum.netlify.app/  
-🔮 CSS Selectors Game: https://rolling-scopes-school.github.io/juliaavona-JSFE2023Q1/rss-css-selectors/index.html  
+📰 CSS Selectors Game: https://rolling-scopes-school.github.io/juliaavona-JSFE2023Q1/rss-css-selectors/index.html  
 💣 Minesweeper Game: https://juliaavona.github.io/minesweeper/minesweeper/  
 🐶 Shelter - Responsive website: https://juliaavona.github.io/shelter/pages/main/index.html  
 🪴 Plants - Responsive website: https://juliaavona.github.io/plants  
