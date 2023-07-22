@@ -4,6 +4,7 @@
 
 🗿 Momentum: https://juliaavona-momentum.netlify.app/  
 📰 CSS Selectors Game: https://rolling-scopes-school.github.io/juliaavona-JSFE2023Q1/rss-css-selectors/index.html  
+🔁 Migration projesct from JS to TypeScript: https://rolling-scopes-school.github.io/juliaavona-JSFE2023Q1/migration-newip-to-ts/dist/index.html  
 💣 Minesweeper Game: https://juliaavona.github.io/minesweeper/minesweeper/  
 🐶 Shelter - Responsive website: https://juliaavona.github.io/shelter/pages/main/index.html  
 🪴 Plants - Responsive website: https://juliaavona.github.io/plants  
@@ -18,7 +19,7 @@
 🔮 Horizontal Slider: https://juliaavona.github.io/gallery/  
 🍭 Vertical Slider: https://juliaavona.github.io/slider/  
 📤 Drag'n'Drop: https://juliaavona.github.io/drag-and-drop/  
-🧩 HTML-builder - 6 steps Node.js: https://github.com/JuliaAvona/HTML-builder-en/tree/main
+🧩 HTML-builder - 6 steps Node.js: https://github.com/JuliaAvona/HTML-builder-en/tree/main  
 
 
 ### 🌐 Socials:
