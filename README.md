@@ -2,7 +2,7 @@
 
 ## Frontend Developer · Angular · React · Next.js · TypeScript · AI-Enhanced Dev
 
-- 🔭 Currently working as the only Frontend Engineer at [PosiTrace](https://positrace.com) — owning the full SaaS frontend solo
+- 🔭 Currently working as the only Frontend Engineer at SaaS platform
 - 🌱 Always learning: recently got certified in Google Cloud & Prompt Design in Vertex AI
 - 📍 Guadalajara, Mexico · Open to Remote / Hybrid opportunities
 
